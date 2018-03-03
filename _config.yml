@@ -1,0 +1,8 @@
+title: Sharonlucky.GitHub.io
+description: Lucky and Smile Girl
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
